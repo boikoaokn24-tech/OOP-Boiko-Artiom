@@ -34,4 +34,4 @@
    ```bash
    dotnet run
 
-   ![alt text](image.png)
+![alt text](image.png)
